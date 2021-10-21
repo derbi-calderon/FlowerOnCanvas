@@ -1,5 +1,6 @@
 # FlowerOnCanvas
-Click here [FlowerOnCanvas](https://derbi-calderon.github.io/Ping-Pong-Game/) To see it in action!
+Click here [FlowerOnCanvas](https://derbi-calderon.github.io/FlowerOnCanvas/) To see it in action!
+Change the variables to create different flowers.
 <br>
 ## Screenshots
 Screenshot:
