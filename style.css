@@ -1,0 +1,13 @@
+body{
+    /*removes scroll bar*/
+    overflow: hidden;
+}
+#canvas1 {
+    position: absolute;
+    border: 2px solid black;
+    background: rgb(184, 184, 223);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
