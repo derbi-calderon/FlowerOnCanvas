@@ -3,12 +3,12 @@ Click here [FlowerOnCanvas](https://derbi-calderon.github.io/Ping-Pong-Game/) To
 <br>
 ## Screenshots
 Screenshot:
-![img](/screenshots/1.PNG)
+![img](/1.PNG)
 <br>
 Screenshot:
-![img](/screenshots/2.PNG)
+![img](/2.PNG)
 <br>
 Screenshot:
-![img](/screenshots/3.PNG)
+![img](/3.PNG)
 
 
